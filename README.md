@@ -1,5 +1,3 @@
-# -A-batalha-dos-RPGistas-heran-a-e-subclasse-
-Utilizando Herança e Subclasses
 
 # Desafio
 Em jogos de RPG, os personagens frequentemente possuem subclasses que representam especializações em determinadas áreas de combate, como por exemplo, "mago", "guerreiro", "ladino", etc. Neste desafio, você deve criar duas classes, "Personagem" e "Subclasse", que ilustrem o conceito de herança em POO.
